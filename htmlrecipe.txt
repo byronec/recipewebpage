@@ -1,0 +1,87 @@
+<html>
+<head>
+<div class="title">
+<center>
+<a href="chefsavvy.com"><img src="https://www.48hourslogo.com/48hourslogo_data/2017/05/29/62159_1496067959.png" width=200 height=200></a>
+<h2>
+BOURBON KITCHEN
+</h2>
+</center>
+</div>
+</head>
+</br>
+<body>
+<div class="Prep">
+<p>
+<h3>
+<ul style="list-style-type:none;">
+<li>Prep time: 5 mins</li>
+<li>Cook Time 15 mins</li>
+<li>Total Time: 20 mins</li>
+</ul>
+</br>
+Serves: 4
+</br>
+</br>
+<i>Super Easy One Pan Bourbon Chicken. Serve with rice and noodles to make it a meal!</i>
+</h3>
+</p>
+</div>
+</br>
+<h2>
+<b>INGREDIENTS</b>
+</h2>
+<div class="ingrediants">
+<p>
+<h4>
+<ul style="list-style-type:square;">
+<li>½ teaspoon sesame oil</li>
+<li>1 tablespoon canola oil</li>
+<li>2 pounds chicken breast, cut into 1 inch cubes 4 cloves garlic, minced</li>
+<li>1 teaspoon ginger, minced</li>
+<li>¼ cup low sodium soy sauce</li>
+<li>¼ cup light or dark brown sugar</li>
+<li>2 tablespoons bourbon</li>
+<li>¼ cup rice wine vinegar</li>
+<li>1 teaspoon cornstarch</li>
+<li>1 tablespoon water</li>
+<li>sesame seeds for garnish, if desired</li>
+<li>green onions for garnish, if desired</li>
+</ul>
+</h4>
+</p>
+</div>
+</br>
+</br>
+<h2>
+<b>INSTRUCTIONS</b>
+</h2>
+<div class="instructions">
+<p>
+<h4>
+<ol>
+<li>Heat sesame oil and canola oil in a large skillet.</li>
+<li>Add in chicken and saute until fully cooked and browned.</li>
+<li>Add in garlic and ginger and saute for 1-2 minutes. (Add in more oil if needed)</li>
+<li>In a medium bowl combine soy sauce, brown sugar, bourbon and rice wine vinegar.</li>
+<li>Add sauce to the chicken and bring to a simmer. Cook for 2-3 minutes.</li>
+<li>Meanwhile in a small bowl whisk together cornstarch and water.</li>
+<li>Slowly add the cornstarch mixture to the sauce and stir frequently until thickened, 2-3 minutes.</li>
+<li>If the sauce needs to thicken more add more cornstarch</li>
+<li>Serve immediately with sesame seeds and green onions for garnish, if desired.</li>
+</ol>
+</h4>
+</p>
+</div>
+<h2>
+<b>NOTES</b>
+</h2>
+<div class="notes">
+<p>
+<h4>
+Original recipe from <a href="chefsavvy.com">chefsavvy.com</a>. Please <strong>do not</strong> publish my recipe or pictures without linking back to the original post. Thank you! 
+<i>Copyright © 2019 Chef Savvy</i></p>
+</h4>
+</div>
+</body>
+</html>
